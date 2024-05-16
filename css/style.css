@@ -13,6 +13,8 @@
 .quote-container{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    text-align: center;
     align-items: center;
     padding: 3.125rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
